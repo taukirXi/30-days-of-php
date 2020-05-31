@@ -41,6 +41,33 @@ print_r(false); print FALSE;
 echo "where were they?\n";
 
 
+
+
+    // array example
+
+    $oxo = array(array('x', ' ', 'o'),
+                array('o', 'o', 'o'),
+                array('x', 'o', ' '),
+);
+    echo "<br>";
+
+    $number = 12345 *67890;
+    echo $number;
+    echo "<br>";
+    echo substr($number, 3, 1);
+
+
+
+
+
+
+    define("ROOT_LOC", "/user/local/");
+    $directory = ROOT_LOC;
+    echo $directory;
+
+
+
+
 ?>
 
 
