@@ -10,3 +10,6 @@
 - Filters
 - System functions
 - Handle forms
+#Day two
+=variable 
+[a link] (https://www.tutorialspoint.com/php/php_variable_types.htm)
